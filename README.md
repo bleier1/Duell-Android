@@ -15,8 +15,8 @@ You can only move the die by the number that is shown on the top of the die (in 
 * Automatic checking for spaces a die is able to move to
 
 ## Screenshots
-<img src="/screenshots/mainscreen.png?raw=true" height="200">
-![Alt text](/screenshots/whogoesfirst.png?raw=true "Determining Who Goes First")
+<img src="/screenshots/mainscreen.png?raw=true" height="400">
+<img src="/screenshots/whogoesfirst.png?raw=true" height="400">
 ![Alt text](/screenshots/playergoesfirst.png?raw=true "The Player Goes First")
 ![Alt text](/screenshots/takingyourturn.png?raw=true "Taking Your Turn")
 ![Alt text](/screenshots/saveask.png?raw=true "Asking to Save")
